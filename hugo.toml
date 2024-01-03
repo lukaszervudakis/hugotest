@@ -1,5 +1,5 @@
 baseURL = 'https://lukaszervudakis.github.io/hugotest/'
-relativeURLs = "True"
+relativeURLs = "False"
 languageCode = 'de-DE'
 title = 'kosmeda Hilfe'
 theme = 'ananke'
