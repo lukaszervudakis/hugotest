@@ -1,0 +1,5 @@
+baseURL = 'http://localhost:1313'
+relativeURLs = "True"
+languageCode = 'de-DE'
+title = 'kosmeda Hilfe'
+theme = 'ananke'
